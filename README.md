@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sai Manudeep Gadde
-- 👀 I’m interested in Software Development primarily in React, Java and C#
+- 👀 I’m interested in Software Development primarily in Angualr, React, Java and C#
 - 🌱 I’m currently learning Redux and Spring Microservices
 - 💞️ I’m looking to collaborate on any full stack project
 - 📫 How to reach me manudeepgadde01@gmail.com
